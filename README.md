@@ -1,15 +1,25 @@
-
 # BOMB FARTA
 
-![FF](https://github.com/BLOOD-FIST/BOMB-FARTA/assets/136256919/465fab90-b2a1-4689-992c-7825e99b375c)
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3_or_higher-blue" </a>
+</p>
 
+<p align="center">
+<img src="https://github.com/BLOOD-FIST/BOMB-FARTA/assets/136256919/465fab90-b2a1-4689-992c-7825e99b375c" </a>
+</p>
+
+<p align="center">
 Python Discord raid tool project made by WHITEFACE
-OPEN-SOURCE
+</p>
+
+<p align="center">
+[OPEN-SOURCE]
+</p>
 
 
 # About
 
-I am learning basic python so this is my first python project, so it is messy but I'll clean it.
+I am learning basic python so this is my first python project, so it is messy but I'll clean it [maybe].
 This script was made in basic python 3, but discord raiding is definitely dead. 
 Also for those skids, don't yoink my code and make utterly shitty software, you'll regret it.
 
@@ -38,41 +48,10 @@ Bothook[BH] - Loads up a webhook proxy
 
 SeraphNuker[SN] - Loads up a powerful alternative nuker
 
-Main commands when BOMB FARTA is active
 
-            
-These are the main choice of command commands you are able to use. [List of 14 commands available]
+# MAIN
 
-[1] RateLimit: Bricks the server stopping anyone when leaving this server
+Main commands when BOMB FARTA is active, these are the main choice of command commands you are able to use. [List of 16 commands available]
 
-[2] DeleteChannels: Deletes all the channels.
+![TT](https://github.com/BLOOD-FIST/BOMB-FARTA/assets/136256919/a7a91d13-f9dc-44d7-831f-cdc60c1cbb0a)
 
-[3] CreateChannels: Creates the selected input amount of channels with name included.
-
-
-[4] MassBan: Mass ban all members.
-
-[5] CreateRoles: Creates the selected input amount of roles with name.
-
-[6] DeleteRoles: Deletes all roles
-
-[7] Promotion: Spam discord links or change anything to the server,
-if added any customization to config.json
-
-[8] VoiceChannel: Joins a voice channel and plays the audio inserted in the
-directory "Audio"
-
-[9] PurgeMessages: Deletes the selected input amount of messages in a channel
-Must provide channel ID and check permission
-
-[10] SpamMessages: Spams messages with the selected input amount of messages
-in a channel must provide channel ID and check permissions
-
-[11] BrickMessages: Bricks all the channels with invisible messsages.
-
-[12] CreateHooks: Creates the selected amount of webhooks with messages
-that can spam in a channel, requirements need with
-channel ID and permission.
-
-[13] SpamHooks:   Spams the webhooks created, spam with the selected input
-amount of messages in a channel. (BotHook is an alternative to this)
