@@ -7,7 +7,7 @@ PROJECT IN PROGRESS! Will add files once it is done.
 </p>
 
 <p align="center">
-<img src="https://github.com/BLOOD-FIST/BOMB-FARTA/assets/136256919/465fab90-b2a1-4689-992c-7825e99b375c" </a>
+<img src="https://github.com/BLOOD-FIST/BOMB-FARTA/assets/136256919/f7f7b5d0-fd20-432c-843c-f2bdebb24407" </a>
 </p>
 
 <p align="center">
@@ -33,8 +33,7 @@ Execute the script in python 3,
 if it doesn't work then install any missing packages you think you might be missing packages
 Start programs/install directory
 
-
-![pronouncedGIF](https://github.com/BLOOD-FIST/BOMB-FARTA/assets/136256919/e63a8970-7d0b-4b06-8b3f-0f4cabf18d39)
+![pronouncedGIF](https://github.com/BLOOD-FIST/BOMB-FARTA/assets/136256919/fa6f7031-f6cc-4814-a367-37fcf36c42f2)
 
 # Commands
 
@@ -55,5 +54,6 @@ SeraphNuker[SN] - Loads up a powerful alternative nuker
 
 Main commands when BOMB FARTA is active, these are the main choice of command commands you are able to use. [List of 16 commands available]
 
-![TT](https://github.com/BLOOD-FIST/BOMB-FARTA/assets/136256919/a7a91d13-f9dc-44d7-831f-cdc60c1cbb0a)
+![TT](https://github.com/BLOOD-FIST/BOMB-FARTA/assets/136256919/8c2076ec-68f2-4f34-97f1-d76c45ea63e5)
+
 
