@@ -27,9 +27,16 @@ if it doesn't work then install any missing packages you think you might be miss
 # Commands
 
 SetID [SI] - Sets your user ID so you are the only one that can spam and set channel ID. 
+
+SetCID [CID] - Sets channel ID to ensure no error
+
 Clear Terminal [CT] - Clears the terminal
+
 StartBots [SB] - Starts the bots and opens up the main panel.
+
 Bothook[BH] - Loads up a webhook proxy
+
+SeraphNuker[SN] - Loads up a powerful alternative nuker
 
 Main commands when BOMB FARTA is active
 
