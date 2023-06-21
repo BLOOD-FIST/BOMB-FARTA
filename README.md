@@ -1,14 +1,21 @@
-# BOMB-FARTA
-Python Discord raid tool project made by WHITEFACE
 
+# BOMB FARTA
+
+![FF](https://github.com/BLOOD-FIST/BOMB-FARTA/assets/136256919/465fab90-b2a1-4689-992c-7825e99b375c)
+
+-https://img.shields.io/badge/discord-python-blue
+
+Python Discord raid tool project made by WHITEFACE
+OPEN-SOURCE
 
 
 # About
 
 I am learning basic python so this is my first python project, so it is messy but I'll clean it.
 This script was made in basic python 3, but discord raiding is definitely dead. 
-Also I poorly obsfucated this software to keep out skids don't yoink my code and make utterly shitty software, for those who know reverse engeering:
-this should be easier crackme software.
+Also for those skids, don't yoink my code and make utterly shitty software, you'll regret it.
+
+![bbgif](https://github.com/BLOOD-FIST/BOMB-FARTA/assets/136256919/85f87073-f202-4fbe-b89a-65c31e33ecbb)
 
 Edit the JSON if you aren't happy with the inputs you entered.
 
