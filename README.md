@@ -29,11 +29,11 @@ Edit the JSON if you aren't happy with the inputs you entered.
 
 Execute the script in python 3,
 if it doesn't work then install any missing packages you think you might be missing packages
+Start programs/install directory
 
-    (Mainly used):    
-    os, time, threading, colorama, discord, random, json, requests
 
-![bbgif](https://github.com/BLOOD-FIST/BOMB-FARTA/assets/136256919/85f87073-f202-4fbe-b89a-65c31e33ecbb)
+![pronouncedGIF](https://github.com/BLOOD-FIST/BOMB-FARTA/assets/136256919/e63a8970-7d0b-4b06-8b3f-0f4cabf18d39)
+
 # Commands
 
 SetID [SI] - Sets your user ID so you are the only one that can spam and set channel ID. 
