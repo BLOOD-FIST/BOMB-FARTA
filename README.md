@@ -1,3 +1,5 @@
+PROJECT IN PROGRESS! Will add files once it is done.
+
 # BOMB FARTA
 
 <p align="center">
