@@ -13,8 +13,6 @@ I am learning basic python so this is my first python project, so it is messy bu
 This script was made in basic python 3, but discord raiding is definitely dead. 
 Also for those skids, don't yoink my code and make utterly shitty software, you'll regret it.
 
-![bbgif](https://github.com/BLOOD-FIST/BOMB-FARTA/assets/136256919/85f87073-f202-4fbe-b89a-65c31e33ecbb)
-
 Edit the JSON if you aren't happy with the inputs you entered.
 
 # How To Use?
@@ -24,7 +22,8 @@ if it doesn't work then install any missing packages you think you might be miss
 
     (Mainly used):    
     os, time, threading, colorama, discord, random, json, requests
-   
+
+![bbgif](https://github.com/BLOOD-FIST/BOMB-FARTA/assets/136256919/85f87073-f202-4fbe-b89a-65c31e33ecbb)
 # Commands
 
 SetID [SI] - Sets your user ID so you are the only one that can spam and set channel ID. 
