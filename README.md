@@ -52,7 +52,9 @@ SeraphNuker[SN] - Loads up a powerful alternative nuker
 
 # MAIN
 
-Main commands when BOMB FARTA is active, these are the main choice of command commands you are able to use. [List of 16 commands available]
+Main commands when BOMB FARTA is active, these are the main choice of command commands you are able to use. 
+
+[List of 16 commands available]
 
 ![TT](https://github.com/BLOOD-FIST/BOMB-FARTA/assets/136256919/8c2076ec-68f2-4f34-97f1-d76c45ea63e5)
 
