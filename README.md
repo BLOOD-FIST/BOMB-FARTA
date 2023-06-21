@@ -3,8 +3,6 @@
 
 ![FF](https://github.com/BLOOD-FIST/BOMB-FARTA/assets/136256919/465fab90-b2a1-4689-992c-7825e99b375c)
 
--https://img.shields.io/badge/discord-python-blue
-
 Python Discord raid tool project made by WHITEFACE
 OPEN-SOURCE
 
