@@ -1,4 +1,4 @@
-PROJECT IN PROGRESS! Will add files once it is done.
+[PROJECT IN PROGRESS!]
 
 # BOMB FARTA
 
@@ -29,7 +29,7 @@ Edit the JSON if you aren't happy with the inputs you entered.
 
 # How To Use?
 
-Execute the script in python 3,
+This program is written in Python 3,
 if it doesn't work then install any missing packages you think you might be missing packages
 Start programs/install directory
 
