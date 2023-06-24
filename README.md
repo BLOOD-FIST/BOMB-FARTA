@@ -3,7 +3,7 @@
 # BOMB FARTA
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3_or_higher-blue" </a>
+<img src="https://img.shields.io/badge/Python-3+-blue" </a>
 </p>
 
 <p align="center">
